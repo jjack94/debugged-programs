@@ -1,5 +1,5 @@
 
-these programs have been edited and debugged by James Jack on 2/6/21/
+these programs have been edited and debugged by James Jack on 2/6/21
 
 Program List-
  
